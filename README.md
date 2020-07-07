@@ -14,3 +14,8 @@ Pending things to do
 #Optimize your solution to have the result as fast as possible.
 #Features like the living area of the house in m², how many floors, if there is a pool, the vegetation in the neighborhood, etc...
 #Better visualization.
+
+
+
+LOGBOOK:
+- 6/7/20 -> read about project, general research & exloration, open tiff files & shp files, download all project data
