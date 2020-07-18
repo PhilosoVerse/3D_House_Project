@@ -7,7 +7,7 @@ becode training project 1
 - How -> using Pandas, Numpy, Matplotlib & other needed libaries 
 - Who -> Steven Verkest (with some tips from other juniors from Becode)
 
-- Pending things to do ->
+Pending things to do ->
 - #Optimize your solution to have the result as fast as possible.
 -> divide 43 tif files into smaller tiles (39000+)
 -> loop over the tiles to get the bounds and save the bounds in a csv file, to look up faster
