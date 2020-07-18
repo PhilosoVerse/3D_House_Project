@@ -8,12 +8,12 @@ becode training project 1
 - Who -> Steven Verkest (with some tips from other juniors from Becode)
 
 Pending things to do ->
-- #Optimize your solution to have the result as fast as possible.
+- Optimize your solution to have the result as fast as possible.
 -> divide 43 tif files into smaller tiles (39000+)
 -> loop over the tiles to get the bounds and save the bounds in a csv file, to look up faster
-- #Features like the living area of the house in m², how many floors, if there is a pool, the vegetation in the neighborhood, etc...
+- Features like the living area of the house in m², how many floors, if there is a pool, the vegetation in the neighborhood, etc...
 -> did not have time for it
-- #Better visualization.
+- Better visualization.
 -> did not have time for it
 
 
