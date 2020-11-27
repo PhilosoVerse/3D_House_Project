@@ -31,11 +31,10 @@
 
 ### To use
 
-```
+Plot house of given address.
 
-Plot house of given address
 ```
-.py
+FINAL_CODE.ipynb
 ```
 
 
