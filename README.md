@@ -16,10 +16,8 @@
 
 
 ### Approach
-
-- Build Keras CNN for emotion recognition with transfer learning using pretrained MobileNetV2
-- Trying to detect faces and emotions with deepFace
-
+Connecting to an API to get lat& lon coordinates, so you can find the right tif file to search the address in, then cut out the information about the house.
+Then plot it.
 
 ### Possible Improvements
 - Optimize your solution to have the result as fast as possible.
