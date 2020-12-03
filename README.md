@@ -12,7 +12,7 @@
 - Why -> We are LIDAR PLANES , active in the Geospatial industy. We would like to use our data to launch a new branch in the insurrance business
 - When -> from 6/7/20 9am untill 20/7/20 9am
 - How -> using Pandas, Numpy, Matplotlib & other needed libaries 
-- Who -> Steven Verkest (with some tips from other juniors from Becode)
+- Who -> Steven Verkest 
 
 
 ### Approach
